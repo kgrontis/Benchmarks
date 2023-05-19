@@ -1,3 +1,5 @@
+> Created for [dev.to](https://dev.to/grontis/exploring-code-performance-testing-in-c-with-benchmarkdotnet-1l26) article.
+
 # How to use
 
 After cloning the repo, navigate from the terminal to the directory.
