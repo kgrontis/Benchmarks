@@ -43,7 +43,7 @@ public class SumBenchmark
         int counter = 0;
         while (counter < arr.Length)
         {
-            sum = arr[counter];
+            sum += arr[counter];
             counter++;
         }
         return sum;
